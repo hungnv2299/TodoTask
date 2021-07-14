@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ToDoTask</string>
+    <string name="button_save">Save</string>
+    <string name="hint_word">Nhập Task</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
